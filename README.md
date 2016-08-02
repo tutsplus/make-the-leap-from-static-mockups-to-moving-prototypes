@@ -9,4 +9,14 @@ If you don’t already use prototyping in your work, you might use flat mockups 
 
 We’ll use two tool that are easy to get started with; Invision and Principle. You’ll get tonnes of value for only a short time investment.
 
+#### Source Files Description:
+
+The source files contain a Sketch file ‘App Screens’ which was used to create the UI. This file was then imported to Principle, you’ll find the Principle file too, ‘animation.prd’ 
+
+The UI and layer system of Principle is very similar to Sketch, so its easy to jump across. Each artboard is a place in time. The arrows above the artboards indicate the transitions between the artboards. You can click on them to see details of the transition/animation. Don’t worry if it seems complex. Its better to create your own Principle file to start with, and gradually build up.
+
+Unfortunately Invision is a web based application, so I am unable to provide the editable source file. However, a zip is provided which you can click through and see how it should work when you’re finished.
+
+I advise using the Sketch file provided so you can focus on Prototyping, although its fine to use an app you’ve been working on yourself. With Principle and Invision, you’ll learn best if you create your own files from scratch. Then you can use mine to check if you’re stuck on some details.
+
 **Available on Tuts+ August 2016**
